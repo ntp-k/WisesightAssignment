@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sklearn
+numpy
+pandas
+joblib
+tensorflow
+keras
+python-multipart
+aiofiles
+pillow

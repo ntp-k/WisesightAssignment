@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+    core_api:
+        build: .
+        container_name: 'wisesight_img_classification'
+        ports: 
+            - '8000:80'
+        volumes:
+            - ./api:/api/classify

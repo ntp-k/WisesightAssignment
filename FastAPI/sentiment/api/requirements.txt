@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sklearn
+numpy
+pandas
+pythainlp
+joblib
+torchvision
+torch
+emoji
